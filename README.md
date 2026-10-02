@@ -32,7 +32,13 @@
 - 💬 Ask me about: **Linux, Python, DevSecOps, Security Automation**
 - ⚡ Fun fact: I break things to learn how to secure them better
 
----
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/soufianecyber/soufianecyber/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/soufianecyber/soufianecyber/output/snake.svg" />
+    <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/soufianecyber/soufianecyber/output/snake.svg" />
+  </picture>
+</div>
 
 ## 🛠️ Tech Stack & Tools
 
@@ -238,7 +244,7 @@ current_focus:
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
   <a href="https://x.com/soufianecyber">
-    <img src="https://img.shields.io/badge/X%20(Twitter)-black?style=for-the-badge&logo=X&logoColor=white" alt="X (Twitter)" />
+    <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=X&logoColor=white" alt="X" />
   </a>
   <a href="mailto:soufiane.cyber.mail@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />

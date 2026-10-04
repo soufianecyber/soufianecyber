@@ -1,4 +1,4 @@
-# ✨ Hi, I'm Soufiane Lhezil (soufianecyber)
+# ✨ Hi, I'm Soufiane Cyber (soufianecyber)
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Self-Taught+DevSecOps+Engineer;Post-Quantum+Cryptography+Enthusiast;Security+Automation+Builder;Python+%7C+Linux+%7C+PQC" alt="Typing SVG" />
